@@ -1,4 +1,4 @@
-# Sales-data-analysis-
+# Sales-data-analysis
 Data analysis project exploring sales trends using Python and SQL, and data visualization techniques 
 
 # Example Python snippet  ( conceptual, requires installation of pandas and prophet ) 
